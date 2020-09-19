@@ -1,0 +1,32 @@
+body
+{
+    background: url('https://c4.wallpaperflare.com/wallpaper/722/768/935/outdoor-swimming-pool-swimming-pool-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 800px;
+    color: white;
+}
+.nav_list{
+    display: inline-block;
+    
+    margin-left: 50px;
+}
+#first{
+    margin-left: 60%;
+}
+article{
+   text-align: center;
+   margin-top: 10%;
+}
+button{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.honor{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
